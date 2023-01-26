@@ -1,0 +1,19 @@
+body {
+    background-image: url("./2385427.jpg");
+    height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    text-align: center;
+    color: black;
+    padding-top: 25em;
+  }
+  h1 {
+    padding-top: 5em;
+    position: absolute;
+    bottom: 100px;
+    left: 100px;
+  }
+  
+  * { color: black; text-decoration: none;}
